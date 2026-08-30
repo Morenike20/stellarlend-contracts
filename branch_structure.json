@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-2021-hello-world-borrow-rs-is-an-empty-stub-while",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-2021-hello-world-borrow-rs-is-an-empty-stub-while": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-2021-hello-world-borrow-rs-is-an-empty-stub-while",
+    "origin"
+  ]
+}
